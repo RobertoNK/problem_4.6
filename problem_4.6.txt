@@ -1,0 +1,13 @@
+BOOK : JAVA PROGRAMMING FROM THE BEGINNING BY K. N.  KING
+
+PROBLEM 6 CHAPTER 4:
+
+Make the following to the CoinFlip2 (Section 4.5)
+
+(a) Use two boolean variables instead of one. The second
+will store the outcome of the coin flip.
+
+(b) If the user fails to enter heads or tails, have the
+program prompt the user to re-enter the input. The program
+will repeat the prompt as often as necessary until the
+user enters either heads or tails.
